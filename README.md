@@ -25,7 +25,7 @@
 
 ## Computer Science Electives
 
-### Four of the Following Classes
+### 3 of the Following Classes
 
 * [String Algorithms](http://catalog.missouri.edu/search/?P=CMP_SC%204060) (4060)
 
