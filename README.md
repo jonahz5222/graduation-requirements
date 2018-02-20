@@ -55,8 +55,8 @@
 * Internship in Computer Science (3940)
 
 ### Complete 1 of the following
-* Theory of Computation (4410)
-* Principles of Programming Languages (4450)
+* [Theory of Computation](http://catalog.missouri.edu/search/?P=CMP_SC%204410) (4410)
+* [Principles of Programming Languages](http://catalog.missouri.edu/search/?P=CMP_SC%204450) (4450)
 
 ### Computer Science Technical Elective
 * MANGMT 3000
