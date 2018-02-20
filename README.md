@@ -5,23 +5,23 @@
 ## Non Computer Science Requirements
 
 #### 6 hours of Writing intensives
-1. Capstone 1 (4970)
-2. 
+* Capstone 1 (4970W)
+* 
 
 #### Science Requirements
-1. Lab Science and Science Sequence 
-	1. BIO 1010    (3)
-	2. BIO 1020    (2)
-	3. BIOCHM 2112 (3)
-2. General Science
-	1. ASTRON 1010 (4)
+* Lab Science and Science Sequence 
+	* BIO 1010    (3)
+	* BIO 1020    (2)
+	* BIOCHM 2112 (3)
+* General Science
+	* ASTRON 1010 (4)
 
 ## Computer Science Core
-1. [Design and Analysis of Algorithms](http://catalog.missouri.edu/search/?P=CMP_SC%204050) (4050)
-2. [Operating Systems](http://catalog.missouri.edu/search/?P=CMP_SC%204520) (4520)
-3. [Computer Networks](http://catalog.missouri.edu/search/?P=CMP_SC%204850) (4850)
-4. [Capstone I](http://catalog.missouri.edu/search/?P=CMP_SC%204970) (4970W)
-5. [Capstone II](http://catalog.missouri.edu/search/?P=CMP_SC%204980) (4980)
+* [Design and Analysis of Algorithms](http://catalog.missouri.edu/search/?P=CMP_SC%204050) (4050)
+* [Operating Systems](http://catalog.missouri.edu/search/?P=CMP_SC%204520) (4520)
+* [Computer Networks](http://catalog.missouri.edu/search/?P=CMP_SC%204850) (4850)
+* [Capstone I](http://catalog.missouri.edu/search/?P=CMP_SC%204970) (4970W)
+* [Capstone II](http://catalog.missouri.edu/search/?P=CMP_SC%204980) (4980)
 
 ## Computer Science Electives
 
