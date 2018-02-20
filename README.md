@@ -74,5 +74,16 @@
 
 
 
+## Tentative Schedules
 
+### Fall 2018
 
+![alt text](Fall 2018 Schedule.png)
+
+### Spring 2019
+
+![alt text](Spring 2019 Schedule.png)
+
+### Fall 2019
+
+![alt text](Fall 2019 Schedule.png)
