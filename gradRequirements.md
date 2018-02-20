@@ -33,12 +33,12 @@
 *  [Parallel Programming for High Performance Computing](http://catalog.missouri.edu/search/?P=CMP_SC%204080) (4080)
 *  [Computer Architecture I](http://catalog.missouri.edu/search/?P=CMP_SC%204270) (4270)
 *  [Network Systems Architecture](http://catalog.missouri.edu/search/?P=CMP_SC%204280) (4280)
-* Database Management Systems I (4380)
+* [Database Management Systems I](http://catalog.missouri.edu/search/?P=CMP_SC%204380) (4380)
 * [Big Data Analytics](http://catalog.missouri.edu/search/?P=CMP_SC%204350) (4350)
 *  [Compilers I](http://catalog.missouri.edu/search/?P=CMP_SC%204430) (4430)
 *  [Malware Analysis and Defense](http://catalog.missouri.edu/search/?P=CMP_SC%204440) (4440)
 * [Introduction to Cryptography ](http://catalog.missouri.edu/search/?P=CMP_SC%204460) (4460) 
-* [Cloud Computing](http://catalog.missouri.edu/search/?P=CMP_SC%20453]() (4530)
+* [Cloud Computing](http://catalog.missouri.edu/search/?P=CMP_SC%20453) (4530)
 * [Computer Graphics I](http://catalog.missouri.edu/search/?P=CMP_SC%204610) (4610)
 * [Physically Based Modeling and Animation](http://catalog.missouri.edu/search/?P=CMP_SC%204620) (4620)
 * [Digital Image Processing](http://catalog.missouri.edu/search/?P=CMP_SC%204650) (4650)
@@ -53,8 +53,9 @@
 * [Undergraduate Research in Computer Science](http://catalog.missouri.edu/search/?P=CMP_SC%204990) (4990)
 * C#/.NET Development (INFOTC 4400)
 * Internship in Computer Science (3940)
-	2. Complete 1 of the following
-		* Theory of Computation (4410)
-		* Principles of Programming Languages (4450)
-	3. Computer Science Technical Elective
-		* MANGMT 3000
+
+2. Complete 1 of the following
+	* Theory of Computation (4410)
+	* Principles of Programming Languages (4450)
+3. Computer Science Technical Elective
+	* MANGMT 3000
