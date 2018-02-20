@@ -25,7 +25,7 @@
 
 ## Computer Science Electives
 
-	1. Four of the Following Classes
+### Four of the Following Classes
 
 * [String Algorithms](http://catalog.missouri.edu/search/?P=CMP_SC%204060) (4060)
 
@@ -54,8 +54,9 @@
 * C#/.NET Development (INFOTC 4400)
 * Internship in Computer Science (3940)
 
-2. Complete 1 of the following
-	* Theory of Computation (4410)
-	* Principles of Programming Languages (4450)
-3. Computer Science Technical Elective
-	* MANGMT 3000
+### Complete 1 of the following
+* Theory of Computation (4410)
+* Principles of Programming Languages (4450)
+
+### Computer Science Technical Elective
+* MANGMT 3000
