@@ -5,23 +5,23 @@
 ## Non Computer Science Requirements
 
 #### 6 hours of Writing intensives
-	1. Capstone 1 (4970)
-	2. 
+1. Capstone 1 (4970)
+2. 
 
 #### Science Requirements
-	1. Lab Science and Science Sequence 
-		1. BIO 1010    (3)
-		2. BIO 1020    (2)
-		3. BIOCHM 2112 (3)
-	2. General Science
-		1. ASTRON 1010 (4)
+1. Lab Science and Science Sequence 
+	1. BIO 1010    (3)
+	2. BIO 1020    (2)
+	3. BIOCHM 2112 (3)
+2. General Science
+	1. ASTRON 1010 (4)
 
 ## Computer Science Core
-	1. Design and Analysis of Algorithms (4050)
-	2. Operating Systems (4520)
-	3. Computer Networks (4850)
-	4. Capstone 1 (4970W)
-	5. Capstone 2 (4980)
+1. Design and Analysis of Algorithms (4050)
+2. Operating Systems (4520)
+3. Computer Networks (4850)
+4. Capstone 1 (4970W)
+5. Capstone 2 (4980)
 
 ## Computer Science Electives
 
