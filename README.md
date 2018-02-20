@@ -2,7 +2,7 @@
   
   
   
-## Non Computer Science Requirements
+## General Non Computer Science Requirements
 
 #### 6 hours of Writing intensives
 * Capstone 1 (4970W)
@@ -59,4 +59,20 @@
 * [Principles of Programming Languages](http://catalog.missouri.edu/search/?P=CMP_SC%204450) (4450)
 
 ### Computer Science Technical Elective
-* MANGMT 3000
+* [Fundamentals of Management](http://catalog.missouri.edu/search/?P=MANGMT+3000) (MGMT 3000)
+
+## Business Minor Requirements
+* [Introduction to Accounting](http://catalog.missouri.edu/search/?P=ACCTCY+2010) (ACCTCY 2010)
+* [Fundamentals of Management](http://catalog.missouri.edu/search/?P=MANGMT%203000) (MGMT 3000)
+* [Principles of Marketing](http://catalog.missouri.edu/search/?P=MRKTNG%203000) (MKT 3000)
+
+### Business Elective
+* Any [Accountancy](http://catalog.missouri.edu/courseofferings/acctcy), [Economics](http://catalog.missouri.edu/courseofferings/econom), [Finance](http://catalog.missouri.edu/courseofferings/financ), [Management](http://catalog.missouri.edu/courseofferings/mangmt), or [Marketing](http://catalog.missouri.edu/courseofferings/mrktng) Course above 3000 level
+
+## Math Minor Requirements
+* [Numerical Linear Algebra](http://catalog.missouri.edu/courseofferings/math/#m4310) (MATH 4310)
+
+
+
+
+
