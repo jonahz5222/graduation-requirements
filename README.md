@@ -78,12 +78,12 @@
 
 ### Fall 2018
 
-![alt text](Fall 2018 Schedule.png)
+![alt text](https://github.com/jonahz5222/graduation-requirements/blob/master/Fall%202018%20Schedule.png)
 
 ### Spring 2019
 
-![alt text](Spring 2019 Schedule.png)
+![alt text](https://github.com/jonahz5222/graduation-requirements/blob/master/Spring%202019%20Schedule.png)
 
 ### Fall 2019
 
-![alt text](Fall 2019 Schedule.png)
+![alt text](https://github.com/jonahz5222/graduation-requirements/blob/master/Fall%202019%20Schedule.png)
